@@ -1,4 +1,4 @@
-# Week 5: JavaScript Fundamentals - Lab Summary
+# lab5-javascript-fundamental
 
 ## แสดงผลลัพธ์ และอธิบายการทำงานของโค๊ดว่าแสดงผลลัพธ์มาได้อย่างไร
 

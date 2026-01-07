@@ -4,7 +4,7 @@
 
 ### Activity 1: Variables & Data Types ✅
 
-- ใช ้`const` และ `let` อย่างถูกต ้อง
+- ใช ้`const` และ `let` อย่างถูกต้อง
 - Primitive types: number, string, boolean, null, undefined
 - Object types: array, object, function
 - Type coercion: implicit vs explicit

@@ -4,7 +4,7 @@
 
 ### ไฟล์ 01-variables.js ✅
 
-### 6. Challenge: Create a Person Object
+#### 6. Challenge: Create a Person Object
 
 โค้ดนี้เป็นการสร้าง Object ชื่อ `student` เพื่อเก็บข้อมูลของนักเรียนและเมธอดที่เกี่ยวข้อง
 
@@ -37,7 +37,7 @@ Courses: HTML, CSS, JavaScript
 
 ### ไฟล์ 02-functions.js ✅
 
-### 8. Returning Objects
+#### 8. Returning Objects
 
 โค้ดนี้เป็นการสร้างฟังก์ชัน `createUser` เพื่อสร้างและส่งกลับ Object ของผู้ใช้
 
@@ -65,7 +65,7 @@ Email: john.doe@example.com
 Full name: John Doe
 ```
 
-### 9. Function as Parameter (Callback)
+#### 9. Function as Parameter (Callback)
 
 โค้ดนี้แสดงการใช้ **Callback Function** โดยการส่งฟังก์ชันเข้าไปเป็นพารามิเตอร์ของฟังก์ชันอื่น
 
@@ -88,7 +88,7 @@ Squared: [ 1, 4, 9, 16, 25 ]
 
 ### ไฟล์ 03-control-flow.js ✅
 
-### 5. Short-Circuit Evaluation
+#### 5. Short-Circuit Evaluation
 
 โค้ดนี้แสดงการทำงานของ **Short-Circuit Evaluation** ซึ่งเป็นการหยุดประเมินเงื่อนไขทันทีเมื่อรู้ผลลัพธ์แล้ว โดยใช้ตัวดำเนินการ `||` และ `&&`
 
@@ -117,7 +117,7 @@ User name: John
 User profile: undefined
 ```
 
-### 7. Form Validation
+#### 7. Form Validation
 
 โค้ดนี้ใช้สำหรับตรวจสอบความถูกต้องของข้อมูลที่ผู้ใช้กรอกในฟอร์ม (Form Validation)
 
@@ -156,7 +156,7 @@ Invalid user: {
 
 ### ไฟล์ 04-loops.js ✅
 
-### 9. Chaining Methods
+#### 9. Chaining Methods
 
 โค้ดนี้แสดงการใช้ **Method Chaining** โดยเรียกใช้หลาย method ของ Array ต่อเนื่องกันในบรรทัดเดียว
 
@@ -175,7 +175,7 @@ Even numbers squared: 2²=4, 4²=16, 6²=36, 8²=64, 10²=100
 Average: 30
 ```
 
-### 10. Challenge: Student Grades
+#### 10. Challenge: Student Grades
 
 โค้ดนี้เป็นการวิเคราะห์ข้อมูลนักเรียน โดยใช้ Array Methods หลายแบบร่วมกัน
 
@@ -225,7 +225,7 @@ Summary (sorted):
 
 ### ไฟล์ 05-integration.js ✅
 
-### Activity 5: Integration - Quiz Application
+#### Activity 5: Integration - Quiz Application
 
 โค้ดนี้เป็นการสร้าง **Quiz Application แบบจำลอง** เพื่อประเมินคะแนนผู้ใช้และให้ผลลัพธ์พร้อมเกรด
 
